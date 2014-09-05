@@ -47,7 +47,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.68600,
+          -122.686,
           45.51859
         ]
       }
@@ -151,7 +151,8 @@
           45.51350462236357
         ]
       }
-    },{
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "World Forestry Center",
@@ -168,7 +169,8 @@
           45.51068525047507
         ]
       }
-    },{
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "The Refuge",
@@ -185,12 +187,14 @@
           45.515590866633325
         ]
       }
-    },{
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "PDX International Airport",
         "marker-symbol": "airport",
-        "marker-color": "#23344c"
+        "marker-color": "#23344c",
+        "web": "http://www.pdx.com"
       },
       "geometry": {
         "type": "Point",
