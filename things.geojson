@@ -55,6 +55,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Bailey's Taproom",
+        "description": "The boozy center of Portland's tech community",
+        "address": "213 SW Broadway, Portland, OR 97205",
+        "marker-symbol": "bar",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67855,
+          45.52247
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Portland State University",
         "description": "The location of the FOSS4G workshops and js.geo conference",
         "marker-symbol": "star",
