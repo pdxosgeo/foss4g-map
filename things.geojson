@@ -587,6 +587,24 @@
           45.51238440884337
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Multnomah Whiskey Library",
+        "description": "Mon-Thur(4pm-12am), Fri-Sat(4pm-1am)",
+        "address": "1124 SW Alder St., Portland, Oregon, 97205",
+        "web": "http://www.multnomahwhiskeylibrary.com/",
+        "marker-symbol": "bar",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683457,
+          45.520989
+        ]
+      }
     }
   ]
 }
