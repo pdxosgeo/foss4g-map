@@ -69,7 +69,6 @@
         ]
       }
     },
-    
     {
       "type": "Feature",
       "properties": {
@@ -621,6 +620,21 @@
         "coordinates": [
           -122.683457,
           45.520989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rouge Brewing",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68476605415344,
+          45.52523921013451
         ]
       }
     }
