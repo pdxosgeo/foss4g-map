@@ -605,6 +605,26 @@
         ]
       }
     },
+
+               {
+               "type": "Feature",
+               "properties": {
+               "title": "Heart Roasters Coffee,
+               "description": "Mon-Sun(7am-6pm)",
+               "address": "2211 E Burnside St, Portland, OR 97214",
+               "web": "http://www.heartroasters.com/",
+               "marker-symbol": "coffee",
+               "marker-color": "#23344c"
+               },
+               "geometry": {
+               "type": "Point",
+               "coordinates": [
+                               -122.643122,45.523249
+                               ]
+               }
+               },
+               
+               
     {
       "type": "Feature",
       "properties": {
